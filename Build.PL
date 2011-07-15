@@ -20,7 +20,7 @@ my %module_build_args = (
     'Randy Stauner <rwstauner@cpan.org>'
   ],
   'dist_name' => 'String-Substitution',
-  'dist_version' => '1.000008',
+  'dist_version' => '1.001',
   'license' => 'perl',
   'module_name' => 'String::Substitution',
   'recommends' => {},
